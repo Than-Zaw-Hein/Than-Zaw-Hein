@@ -1,8 +1,12 @@
-# ThanZawHein
+<h1 align="center">Hi 👋, I'm Than Zaw Hein</h1>
 
-## About Me
+- 👨‍💻 I’m a Senior Android Developer based in Myanmar, currently working at EtagRFID.CoLTD.
 
-I am Than Zaw Hein, an Android developer based in Myanmar. Currently, I work at EtagRFID.CoLTD. With a strong background in RFID technology, Microsoft SSO, Bluetooth technology, and software management, I specialize in creating innovative and efficient Android applications. Throughout my career, I have developed a diverse portfolio of at least 15 Android apps, leveraging my expertise in these areas to deliver high-quality solutions.
+- 🔧 I bring extensive expertise in RFID technology, Warehouse Systems, Microsoft SSO, Bluetooth technology, and software management.
+
+- 📱 With a focus on innovation and efficiency, I've developed a diverse portfolio of over 20 Android apps for my current company, delivering impactful solutions that meet business needs.
+
+- 🚀 My skill set allows me to craft high-quality, tailored software solutions that address a wide range of challenges in the tech industry.
 
 ## Skills
 
@@ -14,6 +18,51 @@ I am Than Zaw Hein, an Android developer based in Myanmar. Currently, I work at 
 - Experience with Bluetooth technology for device communication and integration
 - Proficient in asynchronous programming techniques for responsive and scalable applications
 - Skilled in software management practices, including version control (Git), issue tracking, and agile methodologies
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://developer.android.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> 
+    </a>
+    <a href="https://kotlinlang.org" target="_blank"> 
+        <img src="/kotlin.svg" alt="kotlin" width="60" height="60"/> 
+    </a>
+    <a href="https://developer.android.com/jetpack/compose" target="_blank"> 
+        <img src="/jetpackcompose.svg" alt="jetpack compose" width="60" height="60"/> 
+    </a>
+    <a href="https://www.java.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> 
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> 
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+        <img src="/intellij.svg" alt="intellij" width="60" height="60"/> 
+    </a>
+    <a href="https://gradle.org/" target="_blank"> 
+        <img src="/gradle.svg" alt="gradle" width="60" height="60"/> 
+    </a>
+    <a href="https://www.w3schools.com/xml/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xml" width="60" height="60"/> 
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
+    </a>
+    <a href="https://github.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60"/> 
+    </a>
+    <a href="https://flutter.dev/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> 
+    </a>
+    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original-wordmark.svg" alt="xamarin" width="60" height="60"/> 
+    </a>
+</p>
+
 
 ## Projects
 
@@ -29,7 +78,7 @@ I am Than Zaw Hein, an Android developer based in Myanmar. Currently, I work at 
 - Description: ItemTrackingSystem is an Android application developed for tracking items using Bluetooth devices, specifically the CFH301 device. It enables users to monitor the location and status of items equipped with Bluetooth tags, enhancing efficiency and security in item management.
 - GitHub Repository: [ItemTrackingSystem](https://github.com/Than-Zaw-Hein/ItemTrackingSystem.git)
 
-## Contact Information
+## Connect with me:
 <a href="https://t.me/Thanzawhein997"><img src="profile/Telegram.svg" width="50px" /></a>
 <a href="https://www.linkedin.com/in/than-zaw-hein-081517190"><img src="profile/Linkedin.svg" width="50px" />
 <a href="https://github.com/Than-Zaw-Hein"><img src="profile/GitHub.svg" width="50px" /></a>
