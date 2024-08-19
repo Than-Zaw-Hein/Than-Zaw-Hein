@@ -30,8 +30,7 @@ I am Than Zaw Hein, an Android developer based in Myanmar. Currently, I work at 
 - GitHub Repository: [ItemTrackingSystem](https://github.com/Than-Zaw-Hein/ItemTrackingSystem.git)
 
 ## Contact Information
-
-- Email: [thanzawhein997@gmail.com](mailto:thanzawhein997@gmail.com)
-- LinkedIn: [Than Zaw Hein](https://www.linkedin.com/in/than-zaw-hein-081517190)
-- GitHub: [Than-Zaw-Hein](https://github.com/Than-Zaw-Hein)
+<a href="https://t.me/Thanzawhein997"><img src="./Telegram.svg" width="50px" /></a>
+<a href="https://www.linkedin.com/in/than-zaw-hein-081517190"><img src="./Linkedin.svg" width="50px" />
+<a href="https://github.com/Than-Zaw-Hein"><img src="./GitHub.svg" width="50px" /></a>
 
