@@ -53,7 +53,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
     </a>
     <a href="https://github.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60"/> 
+        <img src="github.svg" alt="github" width="60" height="60"/> 
     </a>
     <a href="https://flutter.dev/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> 
@@ -85,5 +85,5 @@
 ## Connect with me:
 <a href="https://t.me/Thanzawhein997"><img src="profile/Telegram.svg" width="60" /></a>
 <a href="https://www.linkedin.com/in/than-zaw-hein-081517190"><img src="profile/Linkedin.svg" width="60" />
-<a href="https://github.com/Than-Zaw-Hein" target="_white"><img src="profile/GitHub.svg" width="60" /></a>
+<a href="https://github.com/Than-Zaw-Hein" target="_white"><img src="github.svg" width="60" /></a>
 
